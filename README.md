@@ -1,4 +1,4 @@
--Análisis de Ventas del Restaurante "Sabores del Mundo"-
+Análisis de Ventas del Restaurante "Sabores del Mundo"
 
 Contexto
 
