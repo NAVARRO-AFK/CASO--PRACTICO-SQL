@@ -1,10 +1,10 @@
-#Análisis de Ventas del Restaurante "Sabores del Mundo"
+-Análisis de Ventas del Restaurante "Sabores del Mundo"-
 
 Contexto
 
 El restaurante "Sabores del Mundo" es conocido por su auténtica cocina y su ambiente acogedor. A principios de año, lanzaron un nuevo menú y han estado recopilando información detallada sobre las transacciones de los clientes para optimizar sus ventas y mejorar su oferta gastronómica.
 
-#Objetivo
+Objetivo
 
 El propósito de este análisis es identificar los productos más y menos exitosos del menú, para ayudar a los dueños del restaurante en la toma de decisiones estratégicas.
 
@@ -20,7 +20,7 @@ order_details: Almacena información sobre los pedidos realizados por los client
 
 2. Exploración de la tabla menu_items
 
-#Consultas realizadas:
+Consultas realizadas:
 
 Número total de artículos en el menú.
 
@@ -32,7 +32,7 @@ Precio promedio de los platillos.
 
 3. Exploración de la tabla order_details
 
-#Consultas realizadas:
+Consultas realizadas:
 
 Cantidad total de pedidos únicos.
 
